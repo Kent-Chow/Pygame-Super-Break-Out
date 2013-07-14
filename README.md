@@ -1,2 +1,3 @@
 Pygame-Super-Break-Out-
 =======================
+Super Break-Out! is a simple brick-breaking style game, in which the player’s objective is to destroy all the bricks on the screen. The player controls a paddle which moves side to side on the screen. The player must use the paddle to deflect a bouncing ball, which destroys the bricks. However, the player must also prevent the ball from hitting the bottom of the screen or else a life is lost. After 3 lives are lost, the player loses. Score is incremented after each brick on the screen is destroyed. The bricks on the screen lower after a brick destroyed. When half of the bricks on the screen are gone, the player’s paddle shrinks half its original size. 
